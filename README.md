@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7042615692
+- 👋 Hi, I’m @ANUP KUMAR JHA
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on github
